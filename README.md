@@ -12,7 +12,7 @@
 
 ```c++ 
 // include/config.h
-------------
+-------------------
 // Change a AWS_IOT_ENDPOINT follow you organize.
 #define AWS_IOT_ENDPOINT "xxxxxxx.iot.ap-southeast-1.amazonaws.com"
 
@@ -24,10 +24,11 @@
 
 ```
 ## Usage
-
 ```sh
 make
 ```
+You can use PlatformIO GUI in Visual Studio Code also.
+First step you should run `Build Filesystem Image` then `Upload Filesystem Image` and the finally `Upload and Monitor` your device.
 
 ## Author
 

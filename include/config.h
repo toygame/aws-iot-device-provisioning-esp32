@@ -1,6 +1,6 @@
 // WiFi Configuration
-#define WIFI_SSID "CTNT_2G!"
-#define WIFI_PASSWORD "successful"
+#define WIFI_SSID "xxxxxxx"       // <= Edit WiFi SSID.
+#define WIFI_PASSWORD "xxxxxxxx" // <= Edit WiFi password.
 
 // Amazon Certificate
 #define THING_GROUP "esp32dkc"
